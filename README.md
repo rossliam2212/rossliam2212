@@ -1,12 +1,30 @@
-### Hi, I'm Liam Ross :))
+## Hi, I'm Liam :))
 
-Undergraduate at [Technological University of the Shannon](https://tus.ie/)
+Undergraduate at [Technological University of the Shannon](https://tus.ie/).
 
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
+I am currently a third year student studying Software Design with Virtual Reailty & Gaming at TUS. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<p align = "left" style = "padding-right:50px;">
+  <a href = "https://github.com/rossliam2212">
+    <img src = "https://img.shields.io/github/followers/rossliam2212?style=social"/>
+  </a>
+  
+  <a href = "https://linkedin.com/in/rossliam2212">
+    <img src = "https://img.shields.io/badge/-rossliam2212-blue?style=flat-square&logo=Linkedin&logoColor=white/"/>
+  </a>
+  
+  <!--
+  <a href = "#">
+    <img src = "https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white"/>
+  </a>
+  -->
+</p>
 
 ---
 
 ### Languages & Tools
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
 
 <img align="left" alt = "C++" width = "30px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt = "C" width = "30px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
