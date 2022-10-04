@@ -2,7 +2,7 @@
 
 Undergraduate at [Technological University of the Shannon](https://tus.ie/).
 
-I am currently a third year student studying Software Design with Virtual Reailty & Gaming at TUS. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am curently an undergraduate student working towards a Bachelor of Science in Software Design with Virtual Reality and Gaming ([AL801](https://www.ait.ie/courses/BSc-Hons-in-Software-Design-Virtual-Reality-Gaming)) at TUS. I'm a full time third year student who is hoping to graduate in 2024.
 
 <p align = "left" style = "padding-right:50px;">
   <a href = "https://github.com/rossliam2212">
@@ -53,6 +53,10 @@ I am currently a third year student studying Software Design with Virtual Reailt
 
 #
 
+<!--
+
 ### Projects
 
 [Year 2 Game AI & Physics](https://github.com/tussoftwaredesign/ca-rossliam2212)
+
+-->
