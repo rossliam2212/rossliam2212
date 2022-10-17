@@ -22,6 +22,17 @@ I am curently an undergraduate student working towards a Bachelor of Science in 
 
 ---
 
+### Skills
+
+My favourite language is C++
+
+My C++ Projects:
+- [Minesweeper](https://github.com/rossliam2212/MineSweeper)
+- [HI-Lo](https://github.com/rossliam2212/Hi-Lo)
+- [Hang Man](https://github.com/rossliam2212/HangMan)
+
+---
+
 ### Languages & Tools
 
 <p>
