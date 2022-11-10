@@ -30,6 +30,8 @@ My C++ Projects:
 - [Minesweeper](https://github.com/rossliam2212/MineSweeper)
 - [HI-Lo](https://github.com/rossliam2212/Hi-Lo)
 - [Hang Man](https://github.com/rossliam2212/HangMan)
+- [ASCII Image Converter](https://github.com/rossliam2212/ASCIIImageConverter)
+- [ASCII RogueLike Console Game](https://github.com/rossliam2212/ASCIIRogueLikeGame)
 
 ---
 
