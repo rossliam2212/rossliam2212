@@ -32,7 +32,7 @@ My C++ Projects:
 - [Hang Man](https://github.com/rossliam2212/HangMan)
 - [ASCII Image Converter](https://github.com/rossliam2212/ASCIIImageConverter)
 - [ASCII RogueLike Console Game](https://github.com/rossliam2212/ASCIIRogueLikeGame)
-- [Logger](https://github.com/rossliam2212/Logger)
+- [llog Logger](https://github.com/rossliam2212/llog)
 - [Space Invaders](https://github.com/rossliam2212/SpaceInvaders)
 
 ---
