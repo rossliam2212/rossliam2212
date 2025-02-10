@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Liam!!
+## 👋 Hi, I'm Liam
 
 ### 🎯 About Me
 
@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit a
 
 --- -->
 
-### 📫 Let's Connect
+### 📫 Socials
 
 - [X](https://x.com/rossliam_)
 - [LinkedIn](https://www.linkedin.com/in/rossliam2212/)
