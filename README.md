@@ -26,9 +26,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit a
 
 ## 👋 Dia duit, is mise Liam 
 
-### 🎯 Maidir Liom 
-
-Tá mé ina innealtóir bogearraí le paisean do C++, grafaicí, agus clárú córais. Táim ag obair go lánaimseartha mar innealtóir ach déanaim am i gcónaí chun iniúchadh a dhéanamh agus imirt le tionscadail spéisiúla chun mo chumais a thaispeáint.
+### Mé Féin
+Is breá liom códáil, go háirithe le C++. Tá an-dúil agam i ríomhchlárú córas agus grafaicí, i gcónaí ag iarraidh mo chumas a fheabhsú sa spás digiteach.
 
 ### 📫 Sóisialta
 - [X](https://x.com/rossliam_)
